@@ -3,3 +3,5 @@ let ans = 1;
 ans = 2;
 
 // Some comment
+
+// Some other comment
